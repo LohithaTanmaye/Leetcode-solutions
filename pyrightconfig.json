@@ -1,0 +1,8 @@
+{
+  "executionEnvironments": [
+    {
+      "root": "tests",
+      "extraPaths": ["arrays-strings", "basic-algorithms", "stacks"]
+    }
+  ]
+}
